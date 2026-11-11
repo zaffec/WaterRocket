@@ -6,6 +6,10 @@ Elements under pressure can explode, or cause damage, so please pay attention. T
 
 It Still has NOT been tested completely, but will be tested shortly and modified if there are any problem
 
+# Why I designed this 
+
+I wanted to have fun designing and seeing my projects going to life. I eventually want to build a real model rocket so i thought that a Waterrocket would be a good start. I challenged myself to do as less pieces as possible and that it had as cheap as possible to make (and safe of course). 
+
 # The Rocket
 
 The Rocket itself is made out of 6 different parts (see BOM) : 
@@ -23,6 +27,7 @@ Built to use the less components possible and easy to assemble, it holds only 9 
 ![image.png](https://cdn.hackclub.com/01a1c614-3334-7970-a407-8f42f1e5b147/image.png)
 
 - The base : 3d printed, it holds the whole mechanism flat on the ground
+
 ![image.png](https://cdn.hackclub.com/01a1c60a-c628-7394-b682-444a378fad75/image.png)
 
 - 2 Pieces that retain the rocket, 3d printed
@@ -30,6 +35,14 @@ Built to use the less components possible and easy to assemble, it holds only 9 
 ![image.png](https://cdn.hackclub.com/01a1c60a-00ac-79f3-8d64-658d1643fe0d/image.png)
 
 - 2 Pins to connect base to "retainers", 3d printed
+  
 ![image.png](https://cdn.hackclub.com/01a1c60d-fe79-7790-acf6-2d5cb38a3201/image.png)
 
-- The trigger : this 3d printed piece holds the 2 "retainers" together. When pulled the mechanism opens and the rocket takes off. The hole in the midddle is to attach a string so you can launch at a safe distance. 
+- The trigger : this 3d printed piece holds the 2 "retainers" together. When pulled the mechanism opens and the rocket takes off. The hole in the midddle is to attach a string so you can launch at a safe distance.
+
+![image.png](https://cdn.hackclub.com/01a1c612-bed3-79a5-8007-a4ed64e8b8ce/image.png)
+
+- 2 PVC pipes (see BOM), cut to the right length (see in instructions)
+- 1 90° PVC connector (see BOM), glued to the 2 pipes
+- 1 bicycle tire valve, to stick in the pvc tubing
+
